@@ -14,7 +14,7 @@ I feel passionate about coding. My life was improved significantly when I merged
 + C++        (40 hours).
 
 
-I recently started my Software Developer career, I am part of App academy February cohort and I will graduate in August 2020. Please take a look into my repositories and star them!
+I recently started my Software Developer career, I am part of App academy February cohort and I will graduate in August 2020. Please take a look into my [repositories](https://github.com/giancarlo-sanchez) and star them! 
 
 
 
