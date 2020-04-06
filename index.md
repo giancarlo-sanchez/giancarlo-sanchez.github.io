@@ -1,6 +1,5 @@
 
 
-# Giancarlo Sanchez
 
 ## Full stack Software Developer
 
