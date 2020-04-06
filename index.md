@@ -1,13 +1,13 @@
-
+#Giancarlo Sanchez
 
 
 ## Full stack Software Developer
 
 ##### App Academy 02-24-20 Cohort.
 
+###About me: 
 
-
-## Coding experience:
+### Coding experience:
 
 + Javascript (350 hours).
 + C++        (40 hours).
