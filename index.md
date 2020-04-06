@@ -6,7 +6,7 @@
 ##### App Academy 02-24-20 Cohort.
 
 ### About me:  
-             I feel passionate about coding. My life was improved significantly when I merged the programming logic into every task I do daily. Coding allows you to understand the simplest and most complex problems.  
+I feel passionate about coding. My life was improved significantly when I merged the programming logic into every task I do daily. Coding allows you to understand the simplest and most complex problems.  
 
 ### Coding experience:
 
