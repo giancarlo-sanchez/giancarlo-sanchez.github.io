@@ -1,6 +1,4 @@
-<main>
 
-<section>
 
 # Giancarlo Sanchez
 
@@ -8,8 +6,7 @@
 
 ##### App Academy 02-24-20 Cohort.
 
-</section>
-<section>
+
 
 ## Coding experience:
 
@@ -20,6 +17,4 @@
 I recently started my Software Developer career, I am part of App academy February cohort and I will graduate in August 2020. Please take a look into my repositories and star them!
 
 
-</section>
 
-</main>
